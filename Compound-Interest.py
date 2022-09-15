@@ -1,35 +1,4 @@
-# Coding Challenge 2, compound_interest.py
-# Name: Adhiraj Lamichhane
-# Student No: 2226691
 
-# Compound Interest Calculator
-
-"""
-Requirements:
-    You will develop a program to calculate compound interest.
-
-    • Print a welcome message explaining the purpose of the program.
-    • Prompt the user for the necessary inputs (see formulae and brief)
-    • Convert input values to suitable data types.
-    • Perform compound interest calculation using the forumlae provided.
-    • Print the result to the terminal using appropriate formatting.
-    
-    • Your program should be as close as possible to the example shown in the assessment brief.
-
-Constraints:
-    • Ensure that the interest rate is entered as a percentage and not a decimal.
-    • Ensure that all monetary values are formatted to two decimal places.
-
-Hints:
-    • Think about what data types are the most appropriate for each input value.
-    • Order of operations will be important, make sure you use parenthesis.
-    • Review lecture two for more information on string formatting.
-    • Your programs output should be as close as possible to the example in the assessment brief.
-"""
-
-# TODO: Write your code here!
-
-# ANSI Code for Color are listed below
 red = "\033[31m"          
 green="\033[32m"
 Yellow = "\033[33m"
